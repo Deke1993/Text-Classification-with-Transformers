@@ -13,3 +13,11 @@ pip install "git+https://github.com/google-research/robustness_metrics.git#egg=r
 conda install --channel conda-forge nb_conda_kernels #install nb_conda_kernels to make kernels available in environments from conda-forge channel
 
 conda install cudatoolkit=10.1.243 cudnn=7.6.5 #GPU Support, cudatoolkit & cudnn version depends on your GPU & installed drivers. If you only want to use it with CPU (i.e. for predictions) then you can ignore this step.
+
+
+# 'Manual'
+The Training Notebook lets one train text classification models.
+
+The Classification with Reject Option Evaluation Notebook lets one evaluate trained models regarding classification with reject option and uncertainty calibration.
+
+The .py scripts are loaded into the notebooks that serve as a sort easy-to-use interface.
