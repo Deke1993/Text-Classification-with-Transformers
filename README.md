@@ -20,4 +20,8 @@ The Training Notebook lets one train text classification models.
 
 The Classification with Reject Option Evaluation Notebook lets one evaluate trained models regarding classification with reject option and uncertainty calibration.
 
+The Timing Script can be used to get an indication of runtimes of the different methods used in classification with reject option.
+
 The .py scripts are loaded into the notebooks that serve as a sort easy-to-use interface.
+
+
