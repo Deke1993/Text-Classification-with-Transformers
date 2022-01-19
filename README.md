@@ -22,7 +22,7 @@ The Classification with Reject Option Evaluation Notebook lets one evaluate trai
 
 The Timing Script can be used to get an indication of runtimes of the different methods used in classification with reject option.
 
-The .py scripts are loaded into the notebooks that serve as a sort easy-to-use interface.
+The .py scripts are loaded into the notebooks that serve as a sort of easy-to-use interface.
 
 Structure of the files are specific to a master thesis which was created using the scripts. If one wants to apply the scripts to other text classification tasks, adjustments may be necessary (e.g. different languages, maximum sequence length)
 
